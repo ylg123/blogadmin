@@ -1,0 +1,11 @@
+.login-div{
+  margin: 200px auto;
+  width:400px
+}
+.ant-card{
+  background-color: grey;
+}
+body{
+  background-image: url(../img/背景5.jpeg) ;
+  background-size: cover;
+}
